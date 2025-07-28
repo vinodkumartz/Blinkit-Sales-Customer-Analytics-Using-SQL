@@ -1,13 +1,13 @@
 
-# 🔍 Blinkit Sales & Customer Analytics Using SQL
+#  Blinkit Sales & Customer Analytics Using SQL
 
-## 📄 Overview
+##  Overview
 
 This project provides a comprehensive analysis of **Blinkit’s retail sales data** using SQL for data cleaning, querying, and KPI extraction. The goal is to uncover business insights on customer satisfaction, product performance, and outlet efficiency. Visualizations (in Power BI) support data-driven decisions for product optimization and strategy alignment.
 
 ---
 
-## 🧩 Project Objectives
+##  Project Objectives
 
 - Clean and standardize inconsistent data for accurate analytics.
 - Analyze sales, ratings, and item behavior by multiple dimensions (fat content, item type, outlet).
@@ -16,7 +16,7 @@ This project provides a comprehensive analysis of **Blinkit’s retail sales dat
 
 ---
 
-## 🗂️ Dataset Details
+##  Dataset Details
 
 - **Source**: `blinkit_data` (SQL table)
 - **Fields**:  
@@ -26,7 +26,7 @@ This project provides a comprehensive analysis of **Blinkit’s retail sales dat
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 Standardized `Item_Fat_Content` values:
 ```sql
@@ -40,7 +40,7 @@ END;
 
 ---
 
-## 📊 KPIs Extracted
+##  KPIs Extracted
 
 | KPI                 | Description                         |
 |---------------------|-------------------------------------|
@@ -51,7 +51,7 @@ END;
 
 ---
 
-## 🔎 Key Analyses & SQL Queries
+##  Key Analyses & SQL Queries
 
 ### 1. Sales by Fat Content
 ```sql
@@ -92,18 +92,18 @@ Mapped geographic and operational insights using location-wise and type-wise gro
 
 ---
 
-## 📈 Dashboard (Power BI)
+##  Dashboard (Power BI)
 
-- 📊 **Bar Chart**: Total Sales by Item Type  
-- 🥧 **Pie Chart**: Fat Content contribution  
-- 📈 **Line Chart**: Sales by Establishment Year  
-- 🗺️ **Map**: Sales by Location  
-- 🧾 **Pivot Table**: Metrics by Outlet Type  
-- 📋 **KPI Cards**: Total Sales, Avg. Rating, etc.
+-  **Bar Chart**: Total Sales by Item Type  
+-  **Pie Chart**: Fat Content contribution  
+-  **Line Chart**: Sales by Establishment Year  
+-  **Map**: Sales by Location  
+-  **Pivot Table**: Metrics by Outlet Type  
+-  **KPI Cards**: Total Sales, Avg. Rating, etc.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 - **Fat content** significantly affects user ratings and revenue.
 - **Snacks and Dairy** top the sales chart among item types.
@@ -112,7 +112,7 @@ Mapped geographic and operational insights using location-wise and type-wise gro
 
 ---
 
-## 💡 Tools Used
+##  Tools Used
 
 - **SQL (MSSQL / MySQL)** – for data cleaning & aggregation  
 - **Power BI** – for dashboard and visual analysis  
@@ -120,7 +120,7 @@ Mapped geographic and operational insights using location-wise and type-wise gro
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 **Vinod Kumar**  
 📧 [imvinodkumar29@gmail.com](mailto:imvinodkumar29@gmail.com)  
