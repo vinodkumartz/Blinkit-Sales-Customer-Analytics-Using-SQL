@@ -123,9 +123,9 @@ Mapped geographic and operational insights using location-wise and type-wise gro
 ##  Author
 
 **Vinod Kumar**  
-📧 [imvinodkumar29@gmail.com](mailto:imvinodkumar29@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/vinod-kumar-0411a7250/) | [GitHub](https://github.com/vinodkumartz)
+ [imvinodkumar29@gmail.com](mailto:imvinodkumar29@gmail.com)  
+ [LinkedIn](https://www.linkedin.com/in/vinod-kumar-0411a7250/) | [GitHub](https://github.com/vinodkumartz)
 
 ---
 
-## ⭐ Contributions and Suggestions Welcome!
+##  Contributions and Suggestions Welcome!
